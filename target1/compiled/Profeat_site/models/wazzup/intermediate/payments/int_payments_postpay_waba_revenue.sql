@@ -1,0 +1,1 @@
+select * from `dwh-wazzup`.`dbt_nbespalov`.`stg_postpay_waba_revenue_with_gupshup`    -- Таблица платежей постоплатников за WABA
